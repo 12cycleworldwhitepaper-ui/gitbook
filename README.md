@@ -13,7 +13,7 @@ By using AI to analyze **Four Pillars of Destiny (saju)** and **astrology**, it 
 
 In addition, 12C leverages **Soulbound Tokens (SBTs)** to encode each individual’s saju and astrological information as a non-transferable on-chain identity, and builds a matching system that analyzes and confirms compatibility with others based on these tokens. Once your destiny data is inscribed, it becomes a unique “destiny profile” that cannot be traded or altered, forming the foundation for deeper and more precise connections.
 
-In this way, every meeting, act of creation, and collaboration becomes part of a living, borderless digital cultural ecosystem where people connect with people, and cultures connect with cultures. 12C extends personal destiny, relationships, and cultural expression into a shared **“Proof of Culture (PoC)” layer** across the Web3 universe.
+In this way, every encounter, act of creation, and collaboration becomes part of a living, borderless digital cultural ecosystem, where people connect with people and cultures connect with cultures. We extend individual destiny, relationships, and culture into a single **“Proof of Culture (PoC)”** layer that is shared across the entire Web3 universe.
 
 ## Key Features
 
