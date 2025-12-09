@@ -32,14 +32,15 @@ In this way, every encounter, act of creation, and collaboration becomes part of
 
 ## Documentation
 
-| Section                                            | Description                   |
-| -------------------------------------------------- | ----------------------------- |
-| [**Ecosystem**](ecosystem/PoC.md)                  | Proof of Culture mechanism.   |
-| [**Architecture**](ecosystem/architecture.md)      | Technical infrastructure.     |
-| [**Tokenomics**](tokenomics/allocation.md)         | Token allocation and utility. |
-| [**Sustainability**](tokenomics/sustainability.md) | Deflationary models.          |
-| [**Governance**](governance/dao.md)                | DAO structure.                |
-| [**Roadmap**](roadmap/roadmap.md)                  | Development timeline.         |
+| Section                                            | Description                   |                  |
+| -------------------------------------------------- | ----------------------------- | ---------------- |
+| [**Ecosystem**](ecosystem/PoC.md)                  | Proof of Culture mechanism.   | Proof of Culture |
+|                                                    |                               |                  |
+| [**Architecture**](ecosystem/architecture.md)      | Technical infrastructure.     |                  |
+| [**Tokenomics**](tokenomics/allocation.md)         | Token allocation and utility. |                  |
+| [**Sustainability**](tokenomics/sustainability.md) | Deflationary models.          |                  |
+| [**Governance**](governance/dao.md)                | DAO structure.                |                  |
+| [**Roadmap**](roadmap/roadmap.md)                  | Development timeline.         |                  |
 
 ## Links
 
