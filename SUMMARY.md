@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to 12 Cycle (12C) World](README.md)
+* [Welcome to 12C (12 Cycle) World](README.md)
 
 ## 🌏 The Ecosystem
 

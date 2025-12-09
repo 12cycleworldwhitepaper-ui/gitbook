@@ -1,8 +1,10 @@
-# Welcome to 12cycle
+# Welcome to 12C (12 Cycle) World
 
-**"Connecting Cultures, Cycling Value"**
+12C (12 Cycle) is a Web3-based cultural project that reinterprets the **Eastern 12 Zodiac Animals (Chinese Zodiac signs)** and the **Western Zodiac (the twelve houses of the Zodiacs)** on-chain to realize&#x20;
 
-12cycle is a blockchain-based cultural project that reinterprets the traditional **12 Zodiacs** into a universal standard. We aim to create a borderless digital culture ecosystem where anyone can participate and prove their cultural contributions.
+**“Connecting Cultures, Cycling Value.”**
+
+Across Web3 universes, we enable people to **explore their destined connections** through their _saju_ (Four Pillars) and star signs, while building a **borderless digital culture ecosystem** where anyone can participate and prove their cultural contributions.
 
 ## Core Concept
 
