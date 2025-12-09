@@ -41,14 +41,7 @@ In this way, every encounter, act of creation, and collaboration becomes part of
 | [**Governance**](governance/dao.md)                | DAO structure.                |
 | [**Roadmap**](roadmap/roadmap.md)                  | Development timeline.         |
 
-## Security
-
-Smart contracts are subject to external audits.
-
-* Audit Firms: TBD
-* Schedule: TBD
-
 ## Links
 
-* **Website:** [12cycle.io](https://12cycle.io)
-* ...
+* **Website:** [https://12cycle.github.io/12cycle-website/](https://12cycle.github.io/12cycle-website/)
+* X (SNS): [https://x.com/12C\_World](https://x.com/12C_World)
