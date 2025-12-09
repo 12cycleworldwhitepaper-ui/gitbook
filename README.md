@@ -1,5 +1,7 @@
 # Welcome to 12C (12 Cycle) World
 
+<figure><img src=".gitbook/assets/12 Cycle.png" alt="" width="188"><figcaption></figcaption></figure>
+
 **12C (12 Cycle)** is a Web3-based cultural project that reinterprets the **Eastern 12 Zodiac Animals (Chinese Zodiac signs)** and the **Western Zodiac (the twelve houses of the Zodiacs)** on-chain to realize&#x20;
 
 **“Connecting Cultures, Cycling Value.”**
