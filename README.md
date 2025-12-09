@@ -17,10 +17,16 @@ In this way, every encounter, act of creation, and collaboration becomes part of
 
 ## Key Features
 
-* **Universal IP:** 12 Zodiac characters designed for global scalability.
-* **Proof of Culture:** On-chain verification of cultural activities (Webtoons, Games, etc.).
-* **DAO Governance:** Community-driven decision making.
-* **Multi-Chain:** Built on Arbitrum One (Layer 2) for efficiency.
+* **AI-Powered Destiny Matching**\
+  Uses AI to analyze _saju_ (Four Pillars) and astrology to help you discover people who are truly compatible with you, both online and offline.
+* **Soulbound Destiny Profile (SBT)**\
+  Encodes each individual’s saju and astrological data as a non-transferable on-chain identity, creating a unique “destiny profile” that cannot be traded or altered.
+* **Dual-Zodiac Cultural Framework**\
+  Unifies Eastern 12 Zodiac Animals and Western Zodiac houses into a single Web3-native cultural layer, enabling globally recognizable, universal storytelling.
+* **Proof of Culture (PoC) Layer**\
+  Every encounter, creation, and collaboration becomes on-chain cultural data, forming a shared “Proof of Culture” layer across the Web3 universe.
+* **Borderless Digital Culture Ecosystem**\
+  Builds a borderless environment where anyone can participate, contribute, and have their cultural impact transparently recorded and recognized.
 
 ## Documentation
 
