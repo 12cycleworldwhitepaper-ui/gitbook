@@ -1,8 +1,16 @@
-# Proof of Culture
+---
+description: — Synthesizing Universal Destiny —
+---
 
-The core mechanism of the 12cycle ecosystem is the **"Proof of Culture" (PoC)**.
+# Proof of Culture (PoC)
 
-## Founding Purpose: Shared Value
+The core mechanism of the 12C ecosystem is the **"Proof of Culture" (PoC)**.
+
+### Overview: The Destiny Data Layer
+
+For millennia, humanity has sought to understand individual destiny and interpersonal harmony through Saju (Four Pillars of Destiny) in the East and Astrology in the West.
+
+12 Cycle (12C) transforms these vast cultural heritages into actionable on-chain data. Proof of Culture (PoC) is the core protocol that quantifies a user’s innate cosmic disposition and their cultural interactions, converting "Destiny" into decentralized economic value.
 
 **12cycle** was founded on the belief that culture is a universal language. By reinterpreting the shared heritage of the **12 Zodiacs**, we aim to create a borderless digital ecosystem where cultural appreciation translates into economic value.
 
@@ -40,7 +48,7 @@ The 12 Zodiac system is a **Pan-Asian cultural phenomenon** recognized globally.
 
 ## How It Works
 
-1. **Participation:** Users engage with 12cycle-IP content (games, webtoons, NFTs).
+1. **Participation:** Users engage with 12cycle-IP content (Games, Webtoons, YouTube, NFTs).
 2. **Verification:** Activity is verified as a "Cultural Transaction".
 3. **Reward:** Users earn **12C tokens** as proof of contribution.
 
