@@ -6,52 +6,58 @@ description: — Synthesizing Universal Destiny —
 
 The core mechanism of the 12C ecosystem is the **"Proof of Culture" (PoC)**.
 
-### Overview: The Destiny Data Layer
+### 1. Overview: The Destiny Data Layer
 
 For millennia, humanity has sought to understand individual destiny and interpersonal harmony through Saju (Four Pillars of Destiny) in the East and Astrology in the West.
 
 12 Cycle (12C) transforms these vast cultural heritages into actionable on-chain data. Proof of Culture (PoC) is the core protocol that quantifies a user’s innate cosmic disposition and their cultural interactions, converting "Destiny" into decentralized economic value.
 
-**12cycle** was founded on the belief that culture is a universal language. By reinterpreting the shared heritage of the **12 Zodiacs**, we aim to create a borderless digital ecosystem where cultural appreciation translates into economic value.
+**12cycle** was founded on the belief that culture is a universal language. By reinterpreting this shared heritage of the 12 Zodiacs, we aim to create a borderless digital ecosystem where cultural appreciation translates into economic value.
 
-We pursue **Shared Value**:
+In this "Destiny Data Layer" we pursue **Shared Value** through three core pillars:
 
-* **Connection:** Bridging East and West through familiar mythology.
-* **Contribution:** Rewarding every interaction, from reading a webtoon to playing a game.
-* **Ownership:** Giving users a stake in the cultural IP they help grow.
+* **Connection**: Bridging East and West by integrating familiar mythologies into a unified on-chain protocol.
+* **Contribution**: Rewarding every interaction—from analyzing one’s destiny and reading a webtoon to playing a game—as a verified cultural contribution.
+* **Ownership**: A user’s destiny data and contribution history are permanently inscribed on-chain via **Soulbound Tokens (SBTs)**. This non-transferable identity serves as the foundation for the **Proof of Culture (PoC)** mechanism, granting users a tangible and exclusive stake in the cultural IP they help grow.
 
-## The Legend of the 12 Zodiacs
+By transforming ancient wisdom into actionable on-chain data, 12C ensures that your "**Origin**" is no longer just a story, but a verifiable asset and an irreplaceable right that powers the entire Value Cycle.
 
-**12cycle** is built upon the universal cultural heritage of the **12 Zodiac Animals (���)** a mythology shared across East Asian cultures and recognized globally.
+### 2. Dual-Zodiac Identity: Inscribing Destiny via SBT
 
-### The Origin Story
+The PoC ecosystem begins with the creation of a "Destiny Profile," a hybrid identity that bridges two worlds:
 
-According to ancient legend, the Jade Emperor held a great race to determine which animals would represent the years in the calendar. The first 12 animals to cross the celestial river would earn their place in history. Through cleverness, strength, and determination, these animals became the guardians of time.
+* Eastern 12 Zodiacs (Saju): Analyzes the Year, Month, Day, and Hour of birth to extract the user’s fundamental nature based on the 12 Animals and the Five Elements (Wood, Fire, Earth, Metal, Water).
+* Western 12 Signs (Astrology): Integrates planetary positions and zodiac houses to define social tendencies, emotional archetypes, and spiritual paths.
+* Soulbound Destiny Profile (SBT): This synthesized data is inscribed into a non-transferable SBT. It serves as a permanent "Digital DNA," forming the foundation for all cultural transactions within the 12C universe.
 
-### Meet the 12 Heroes
+### 3. Core Mechanism: Destiny Resonance
 
-| <p><img src="../.gitbook/assets/zodiac_sheep.png" alt=""><br>Sheep<br><em>The Gentle Guardian</em></p> | <p><img src="../.gitbook/assets/zodiac_monkey.png" alt=""><br>Monkey<br><em>The Clever Trickster</em></p> | <p><img src="../.gitbook/assets/zodiac_rooster.png" alt=""><br>Rooster<br><em>The Dawn Herald</em></p> |    <p><img src="../.gitbook/assets/zodiac_dog.png" alt=""><br>Dog<br><em>The Loyal Friend</em></p>   |
-| :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-|    <p><img src="../.gitbook/assets/zodiac_pig.png" alt=""><br>Pig<br><em>The Fortunate One</em></p>    |     <p><img src="../.gitbook/assets/zodiac_rat.png" alt=""><br>Rat<br><em>The Cunning Pioneer</em></p>    |    <p><img src="../.gitbook/assets/zodiac_ox.png" alt=""><br>Ox<br><em>The Steadfast Worker</em></p>   | <p><img src="../.gitbook/assets/zodiac_tiger.png" alt=""><br>Tiger<br><em>The Brave Warrior</em></p> |
-| <p><img src="../.gitbook/assets/zodiac_rabbit.png" alt=""><br>Rabbit<br><em>The Swift Dreamer</em></p> |   <p><img src="../.gitbook/assets/zodiac_dragon.png" alt=""><br>Dragon<br><em>The Divine Ruler</em></p>   |   <p><img src="../.gitbook/assets/zodiac_snake.png" alt=""><br>Snake<br><em>The Wise Mystic</em></p>   |  <p><img src="../.gitbook/assets/zodiac_horse.png" alt=""><br>Horse<br><em>The Free Spirit</em></p>  |
+PoC shifts the focus from financial capital to "Cultural Capital." It measures the value of Connections and Activities within the framework of universal destiny.
 
-### A Shared Cultural Universe
+#### 3.1 Destiny Matching & Resonance Score
 
-The 12 Zodiac system is a **Pan-Asian cultural phenomenon** recognized globally.
+* Compatibility Algorithm: The AI engine cross-references Saju (Harmony and Clashes) with Western Astrological aspects (Conjunctions, Trines, etc.).
+* Resonance Activities: When users with complementary cosmic energies connect, collaborate, or meet offline, "Destiny Resonance" is triggered, generating PoC points.
 
-| Region     | Local Name       | Significance                                       |
-| ---------- | ---------------- | -------------------------------------------------- |
-| **China**  | ���� (Sh?ngxiao) | Deeply integrated into festivals and astrology.    |
-| **Korea**  | ������ (Sibiiji) | Used in traditional calendars and fortune-telling. |
-| **Japan**  | ��� (J?nishi)    | Featured in New Year celebrations.                 |
-| **Global** | Chinese Zodiac   | Recognized worldwide through pop culture.          |
+### 4. The "Celestial Gates" Incentive System
 
-## How It Works
+12C operates unique incentive seasons aligned with astronomical and seasonal cycles:
 
-1. **Participation:** Users engage with 12cycle-IP content (Games, Webtoons, YouTube, NFTs).
-2. **Verification:** Activity is verified as a "Cultural Transaction".
-3. **Reward:** Users earn **12C tokens** as proof of contribution.
+* 24 Solar Terms: PoC rewards are amplified during major Eastern seasonal shifts (e.g., the Start of Spring, Summer Solstice).
+* Planetary Events: Special "Guardian Rewards" are issued to users who maintain community stability during challenging astrological periods, such as Mercury Retrograde.
+* Zodiac Wars: A competitive framework where the 12 Eastern Animals and 12 Western Houses compete for seasonal dominance. The most "resonant" community wins a share of the ecosystem’s generated revenue.
 
-## Value Proposition
+### 5. Conclusion: Ancient Wisdom, Digital Future
+
+Proof of Culture (PoC) is the most human-centric consensus algorithm in the Web3 space. By reinterpreting Saju and Astrology through blockchain technology, 12C allows users to prove their destiny, create meaningful connections, and build a borderless digital culture. Here, your "Origin" is not just a story—it is a verifiable asset that powers the Value Cycle.
+
+### \* Meet the 12 Heroes (12 Zodiac Preview)\*
+
+|  ![](../.gitbook/assets/zodiac_sheep.png) | ![](../.gitbook/assets/zodiac_monkey.png) | ![](../.gitbook/assets/zodiac_rooster.png) |  ![](../.gitbook/assets/zodiac_dog.png)  |
+| :---------------------------------------: | :---------------------------------------: | :----------------------------------------: | :--------------------------------------: |
+|   ![](../.gitbook/assets/zodiac_pig.png)  |   ![](../.gitbook/assets/zodiac_rat.png)  |    ![](../.gitbook/assets/zodiac_ox.png)   | ![](../.gitbook/assets/zodiac_tiger.png) |
+| ![](../.gitbook/assets/zodiac_rabbit.png) | ![](../.gitbook/assets/zodiac_dragon.png) |  ![](../.gitbook/assets/zodiac_snake.png)  | ![](../.gitbook/assets/zodiac_horse.png) |
+
+## <sub>\* Value Proposition</sub>
 
 The **12C token** acts as a **Cultural Certificate**, creating a loop where cultural consumption generates economic value.
