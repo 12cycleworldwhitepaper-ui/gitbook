@@ -1,3 +1,8 @@
+---
+icon: people-arrows
+coverY: 0
+---
+
 # Welcome to 12C (12 Cycle) World
 
 <figure><img src=".gitbook/assets/12 Cycle.png" alt="" width="188"><figcaption></figcaption></figure>
@@ -32,15 +37,7 @@ In this way, every encounter, act of creation, and collaboration becomes part of
 
 ## Documentation
 
-| Section                                            | Subsection                    | Description |
-| -------------------------------------------------- | ----------------------------- | ----------- |
-| [**Ecosystem**](ecosystem/PoC.md)                  | Proof of Culture              | ---         |
-|                                                    | Tech Architecture             |             |
-| [**Architecture**](ecosystem/architecture.md)      | Technical infrastructure.     |             |
-| [**Tokenomics**](tokenomics/allocation.md)         | Token allocation and utility. |             |
-| [**Sustainability**](tokenomics/sustainability.md) | Deflationary models.          |             |
-| [**Governance**](governance/dao.md)                | DAO structure.                |             |
-| [**Roadmap**](roadmap/roadmap.md)                  | Development timeline.         |             |
+<table><thead><tr><th width="213.33331298828125">Section</th><th>Subsection</th></tr></thead><tbody><tr><td><a href="ecosystem/PoC.md"><strong>THE ECOSYSTEM</strong></a></td><td>Proof of Culture (PoC)</td></tr><tr><td></td><td>Tech Architecture</td></tr><tr><td><a href="ecosystem/architecture.md"><strong>TOKEN ECONOMY</strong></a></td><td>Allocation &#x26; Vesting</td></tr><tr><td></td><td>Sustainability &#x26; Burn</td></tr><tr><td><a href="governance/dao.md"><strong>GOVERNANCE</strong></a></td><td>Decentralized Autonomous Organizations (DAOs)</td></tr><tr><td><a href="tokenomics/sustainability.md"><strong>ROADMAP</strong></a></td><td>Development Plan</td></tr><tr><td><a href="team/team.md"><strong>TEAM</strong></a></td><td>Core Team &#x26; Strategic Partners</td></tr><tr><td><a href="governance/dao.md"><strong>LEGAL</strong></a></td><td>Legal Disclaimer &#x26; Risk Factors</td></tr></tbody></table>
 
 ## Links
 

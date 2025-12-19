@@ -4,7 +4,7 @@
 
 ## 🌏 The Ecosystem
 
-* [Proof of Culture](ecosystem/PoC.md)
+* [Proof of Culture (PoC)](ecosystem/PoC.md)
 * [Tech Architecture](ecosystem/architecture.md)
 
 ## 💎 Token Economy
@@ -14,17 +14,16 @@
 
 ## ⚖️ Governance
 
-* [The Grand Council (DAO)](governance/dao.md)
+* [Decentralized Autonomous Organizations (DAOs)](governance/dao.md)
 
 ## 🗺️ Roadmap
 
 * [Development Plan](roadmap/roadmap.md)
 
-## ⚖️ Legal
-
-* [Legal Disclaimer](legal/disclaimer.md)
-* [Risk Factors](legal/risks.md)
-
 ## 👥 Team
 
-* [Team & Partnership](team/team.md)
+* [Core Team & Strategic Partners](team/team.md)
+
+## ⚖️ Legal
+
+* [Legal Disclaimer & Risk Factors](legal/disclaimer.md)
