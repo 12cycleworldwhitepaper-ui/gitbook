@@ -9,8 +9,7 @@
 
 ## 💎 Token Economy
 
-* [Allocation & Vesting](tokenomics/allocation.md)
-* [Sustainability & Burn](tokenomics/sustainability.md)
+* [Allocation & Sustainability](tokenomics/allocation.md)
 
 ## ⚖️ Governance
 
