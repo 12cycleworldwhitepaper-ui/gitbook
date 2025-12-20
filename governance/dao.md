@@ -1,38 +1,22 @@
-# Governance (DAO)
+# Decentralized Autonomous Organizations (DAOs)
 
-The **Grand Council** is the decision-making body where **12C** token holders shape the future.
+12C operates under a Decentralized Autonomous Organization (DAO) known as "The Grand Council." Governance in 12C goes beyond simple voting; it is a cultural decision-making process that symbolizes the harmony of East and West.
 
-##  Governance Structure
+#### 1. Voting Power & Reputation
 
-*   **Voting Power:** Derived from staked 12C tokens.
-*   **Principle:** 1 Token = 1 Vote (Base).
+We utilize a hybrid voting model to ensure fairness:
 
-### Voting Weight
-*   **Staking Bonus:** TBD (Multipliers based on duration).
-*   **NFT/PoC Bonus:** TBD.
+* Token Weight: Voting rights proportional to 12C token holdings.
+* SBT Reputation Boost: Multipliers are applied based on a user’s PoC contribution level recorded in their SBT. This prevents "Whale dominance" and empowers dedicated community members.
 
-##  Proposal System
+#### 2. Governance Scope
 
-### Proposal Types
+The Grand Council decides on critical issues such as:
 
-1.  **Standard Proposal:** Marketing, Events.
-2.  **Major Proposal:** Ecosystem Funds, Expansions.
-3.  **Critical Proposal:** Protocol Upgrades.
+* PoC Calibration: Adjusting reward multipliers to manage token inflation.
+* Treasury Allocation: Deciding how to spend ecosystem reserves (e.g., for new IP acquisition or buy-backs).
+* Protocol Upgrades: Approving new smart contracts or technical integrations on BSC.
 
-### Requirements
-*   **Submission Threshold:** TBD (Minimum 12C required).
-*   **Quorum:** TBD (Dynamic or Fixed %).
-*   **Approval Rate:** Simple Majority (Standard) / Supermajority (Critical).
+#### 3. The Path to Decentralization
 
-##  Treasury Management
-
-A portion of ecosystem revenue is deposited into the **Community Treasury**.
-
-### Funding Sources
-*   NFT Trading Fees
-*   IP Licensing Revenue
-*   Game In-App Purchases
-
-### Management
-*   **Multi-Sig Wallet:** TBD (Signer composition).
-*   **Transparency:** Periodic financial reports.
+12C aims for progressive decentralization. As the ecosystem matures, an increasing percentage of the Treasury and PoC parameters will be handed over to the Grand Council, ensuring that the project remains a "public good" for the global 12 Zodiac community.
