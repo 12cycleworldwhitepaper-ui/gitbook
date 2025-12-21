@@ -6,16 +6,16 @@
 
 We utilize a hybrid voting model to ensure fairness:
 
-* Token Weight: Voting rights proportional to 12C token holdings.
-* SBT Reputation Boost: Multipliers are applied based on a user’s PoC contribution level recorded in their SBT. This prevents "Whale dominance" and empowers dedicated community members.
+* **Token Weight**: Voting rights proportional to 12C token holdings.
+* **SBT Reputation Boost**: Multipliers are applied based on a user’s PoC contribution level recorded in their SBT. This prevents "Whale dominance" and empowers dedicated community members.
 
 #### 2. Governance Scope
 
 The Grand Council decides on critical issues such as:
 
-* PoC Calibration: Adjusting reward multipliers to manage token inflation.
-* Treasury Allocation: Deciding how to spend ecosystem reserves (e.g., for new IP acquisition or buy-backs).
-* Protocol Upgrades: Approving new smart contracts or technical integrations on BSC.
+* **PoC Calibration**: Adjusting reward multipliers to manage token inflation.
+* **Treasury Allocation**: Deciding how to spend ecosystem reserves (e.g., for new IP acquisition or buy-backs).
+* **Protocol Upgrades**: Approving new smart contracts or technical integrations on BSC.
 
 #### 3. The Path to Decentralization
 

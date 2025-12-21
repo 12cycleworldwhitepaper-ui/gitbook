@@ -26,9 +26,9 @@ By transforming ancient wisdom into actionable on-chain data, 12C ensures that y
 
 The PoC ecosystem begins with the creation of a "Destiny Profile," a hybrid identity that bridges two worlds:
 
-* Eastern 12 Zodiacs (Saju): Analyzes the Year, Month, Day, and Hour of birth to extract the user’s fundamental nature based on the 12 Animals and the Five Elements (Wood, Fire, Earth, Metal, Water).
-* Western 12 Signs (Astrology): Integrates planetary positions and zodiac houses to define social tendencies, emotional archetypes, and spiritual paths.
-* Soulbound Destiny Profile (SBT): This synthesized data is inscribed into a non-transferable SBT. It serves as a permanent "Digital DNA," forming the foundation for all cultural transactions within the 12C universe.
+* **Eastern 12 Zodiacs (Saju)**: Analyzes the Year, Month, Day, and Hour of birth to extract the user’s fundamental nature based on the 12 Animals and the Five Elements (Wood, Fire, Earth, Metal, Water).
+* **Western 12 Signs (Astrology)**: Integrates planetary positions and zodiac houses to define social tendencies, emotional archetypes, and spiritual paths.
+* **Soulbound Destiny Profile (SBT)**: This synthesized data is inscribed into a non-transferable SBT. It serves as a permanent "Digital DNA," forming the foundation for all cultural transactions within the 12C universe.
 
 ### 3. Core Mechanism: Destiny Resonance
 
@@ -36,16 +36,16 @@ PoC shifts the focus from financial capital to "Cultural Capital." It measures t
 
 #### 3.1 Destiny Matching & Resonance Score
 
-* Compatibility Algorithm: The AI engine cross-references Saju (Harmony and Clashes) with Western Astrological aspects (Conjunctions, Trines, etc.).
-* Resonance Activities: When users with complementary cosmic energies connect, collaborate, or meet offline, "Destiny Resonance" is triggered, generating PoC points.
+* **Compatibility Algorithm**: The AI engine cross-references Saju (Harmony and Clashes) with Western Astrological aspects (Conjunctions, Trines, etc.).
+* **Resonance Activities**: When users with complementary cosmic energies connect, collaborate, or meet offline, "Destiny Resonance" is triggered, generating PoC points.
 
 ### 4. The "Celestial Gates" Incentive System
 
 12C operates unique incentive seasons aligned with astronomical and seasonal cycles:
 
-* 24 Solar Terms: PoC rewards are amplified during major Eastern seasonal shifts (e.g., the Start of Spring, Summer Solstice).
-* Planetary Events: Special "Guardian Rewards" are issued to users who maintain community stability during challenging astrological periods, such as Mercury Retrograde.
-* Zodiac Wars: A competitive framework where the 12 Eastern Animals and 12 Western Houses compete for seasonal dominance. The most "resonant" community wins a share of the ecosystem’s generated revenue.
+* **24 Solar Terms**: PoC rewards are amplified during major Eastern seasonal shifts (e.g., the Start of Spring, Summer Solstice).
+* **Planetary Events**: Special "Guardian Rewards" are issued to users who maintain community stability during challenging astrological periods, such as Mercury Retrograde.
+* **Zodiac Wars**: A competitive framework where the 12 Eastern Animals and 12 Western Houses compete for seasonal dominance. The most "resonant" community wins a share of the ecosystem’s generated revenue.
 
 ### 5. Conclusion: Ancient Wisdom, Digital Future
 
