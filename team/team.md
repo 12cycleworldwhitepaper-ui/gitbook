@@ -1,6 +1,6 @@
 # Core Team & Strategic Partners
 
-We are assembling a team of experts in blockchain, gaming, and cultural content.
+We are assembling a team of experts in AI, blockchain, gaming, and cultural content.
 
 ## Core Team
 
